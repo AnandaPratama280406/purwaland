@@ -1,0 +1,8 @@
+{
+  "districts": [
+    ["Jatiluhur",60.11,6.19],["Sukasari",92.01,9.47],["Maniis",71.64,7.37],["Tegal Waru",73.23,7.54],["Plered",31.48,3.24],["Sukatani",95.43,9.82],["Darangdan",67.39,6.94],["Bojong",68.69,7.07],["Wanayasa",56.55,5.82],["Kiarapedes",52.16,5.37],["Pasawahan",36.96,3.80],["Pondok Salam",44.08,4.54],["Purwakarta",24.83,2.56],["Babakancikao",42.40,4.36],["Campaka",43.60,4.49],["Cibatu",56.50,5.81],["Bungursari",54.66,5.63]
+  ],
+  "landuse": [
+    ["Badan Jalan",239.02,0.24],["Badan Rel Kereta Api",11.71,0.01],["Danau",8077.42,8.13],["Hutan",29938.34,30.15],["Industri",2103.78,2.12],["Kolam",402.20,0.40],["Ladang",2458.22,2.48],["Perkebunan",20067.98,20.21],["Pemukiman",9100.07,9.16],["Pertahanan dan Keamanan",47.83,0.05],["Pertambangan",639.63,0.64],["Peternakan",325.48,0.33],["Sawah",21895.17,22.05],["Semak/Belukar",1704.53,1.72],["Sungai",685.78,0.69],["Tanah Terbuka",1416.87,1.43],["TPU",176.95,0.18],["Wisata",18.18,0.02]
+  ]
+}
